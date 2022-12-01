@@ -20,6 +20,7 @@ var pages = 336;
 // of what it currently is 
 
 pages = (336 * .25)
+// ** check for understanding
 
 
 
@@ -31,7 +32,7 @@ var movie = undefined
 // book (made up or not!). Your sequel must make use of your "title" variable from above
 
 var sequel = "SuperFreakonomics"
-
+// ** check for understanding
 
 // Initialize a new variable "isFavorite", and assign it to a boolean value indicating
 // if the book you chose is your favorite book or not
