@@ -12,16 +12,6 @@ function buildMainCharacter(name, age, pronouns) {
   };
   return character
 };
-    // why does changing the variable name to characterDescription change the color of the syntax
-  
-// function saveReview(review1) {
-//   var reviews = []
-//   for(var i = 0; i < reviews.length; i++){
-//     reviews.unshift(review1);
-//   }
-  
-// };
-
 
 function saveReview(newReview, array) {
   if (!array.includes(newReview))
