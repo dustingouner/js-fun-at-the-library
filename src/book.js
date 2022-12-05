@@ -16,8 +16,8 @@ function buildMainCharacter(name, age, pronouns) {
 function saveReview(newReview, array) {
   if (!array.includes(newReview))
     return array.push(newReview);
-  }
-  // **check for understanding
+}
+ 
  
 function calculatePageCount(pages) {
     return pages.length * 20
